@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bharath M
-- 👀 I’m interested in WebDevelopment, Data Science, Machile learning and Artificial Intelligence.
-- 🌱 I’m currently learning Web Development, Machile Learning and Data Science.
-- 💞️ I’m looking to collaborate on Tata Industry(TCS), Infosys, Google, Microsoft, IBM..
+- 👀 I’m interested in WebDevelopment, CyberSecurity, Machine learning and Artificial Intelligence.
+- 🌱 I’m currently learning Web Development, Machine Learning and CyberSecurity.
+- 💞️ I’m looking to collaborate on Tata Industry(TCS), Google, Microsoft, IBM, capgemini...
 - 📫 How to reach me bharathm0925@gmail.com
 
 <!---
